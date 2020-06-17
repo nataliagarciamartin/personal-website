@@ -15,8 +15,12 @@
 #   Browse user installed themes in `data/themes/`
 theme = "rose"
 light = false
+<<<<<<< HEAD
 dark = true
 font_theme = "ocean"
+=======
+font_theme = "minimal"
+>>>>>>> 2cc38fa3e1c256af58ae04b795797ed1806d57b2
 colour_theme = "rose"
 
 # Enable users to switch between day and night mode?
