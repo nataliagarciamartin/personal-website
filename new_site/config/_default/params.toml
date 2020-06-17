@@ -15,8 +15,6 @@
 #   Browse user installed themes in `data/themes/`
 theme = "rose"
 light = false
-font_theme = "minimal"
-colour_theme = "rose"
 
 # Enable users to switch between day and night mode?
 day_night = true
@@ -25,7 +23,7 @@ day_night = true
 #   Latest font sets (may require updating): https://sourcethemes.com/academic/themes/
 #   Browse built-in font sets in `themes/academic/data/fonts/`
 #   Browse user installed font sets in `data/fonts/`
-font = "minimal"
+font = ""
 
 # Choose a font size.
 # Sizes: XS (extra small), S (small), M (medium), L (large - DEFAULT), XL (extra large)
@@ -165,6 +163,9 @@ sharing = true
 # Show a copyright license from creativecommons.org in the site footer?
 # Page specific copyright licenses are also possible by adding this option to a page's front matter.
 copyright_license = {enable = false, allow_derivatives = false, share_alike = true, allow_commercial = false, notice = "This work is licensed under {license}"}
+
+# Highlight the site author (superuser) in author lists? (true/false)
+highlight_superuser = false
 
 # Link authors to their profile page? (true/false)
 link_authors = true

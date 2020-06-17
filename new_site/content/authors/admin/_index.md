@@ -1,25 +1,43 @@
 ---
+# Display name
+title: Natalia Garcia Martin
+
+# Username (this should match the folder name)
 authors:
-- Natalia
+- admin
+
+# Is this the primary user of the site?
+superuser: true
+
+# Role/position
+role: DPhil student in Statistics
+
+# Organizations/Affiliations
+organizations:
+- name: Department of Statistics, University of Oxford
+  url: "https://www.stats.ox.ac.uk/"
+- name: Cancer Research UK Oxford Centre
+  url: "https://www.cancercentre.ox.ac.uk/"
+
+# Short bio (displayed in user profile at end of posts)
 bio: PhD student in Statistics working on the integration of genomics and imaging analysis for the study of cancer subtypes to predict tumour behaviour and response to treatment.
+
+interests:
+- Machine Learning
+- Cancer Genomics
+- Medical Imaging
+- Network Analysis
 
 education:
   courses:
   - course: BSc in Mathematics and Statistics
     institution: University of Glasgow
     year: 2018
-email: ""
-interests:
-- Machine Learning
-- Cancer Genomics
-- Medical Imaging
-- Network Analysis
-organizations:
-- name: Department of Statistics, University of Oxford
-  url: "https://www.stats.ox.ac.uk/"
-- name: Cancer Research UK Oxford Centre
-  url: "https://www.cancercentre.ox.ac.uk/"
-role: DPhil student in Statistics 
+
+# Social/Academic Networking
+# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
+#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
+#   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
 - icon: envelope
   icon_pack: fas
@@ -30,10 +48,20 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/nataliagarciamartin
-superuser: false
-title: Natalia Garcia Martin
-user_groups:
-- Graduate Students
+# Link to a PDF of your resume/CV from the About widget.
+# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
+# - icon: cv
+#   icon_pack: ai
+#   link: files/cv.pdf
+
+# Enter email to display Gravatar (if Gravatar enabled in Config)
+email: ""
+
+# Organizational groups that you belong to (for People widget)
+#   Set this to `[]` or comment out if you are not using People widget.
+#user_groups:
+#- Researchers
+#- Visitors
 ---
 
 I am a PhD student at the [EPSRC & MRC Centre for Doctoral Training (CDT) in Next Generational Statistical Science](http://www.oxwasp-cdt.ac.uk/epsrc--mrc-centre-for-doctoral-training.html) based at the [Department of Statistics](https://www.stats.ox.ac.uk/) and the [Big Data Institute](https://www.bdi.ox.ac.uk/).
