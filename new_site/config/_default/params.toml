@@ -13,7 +13,11 @@
 #   Latest themes (may require updating): https://sourcethemes.com/academic/themes/
 #   Browse built-in themes in `themes/academic/data/themes/`
 #   Browse user installed themes in `data/themes/`
-theme = "minimal"
+theme = "rose"
+light = false
+dark = true
+font_theme = "ocean"
+colour_theme = "rose"
 
 # Enable users to switch between day and night mode?
 day_night = true
