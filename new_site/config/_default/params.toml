@@ -15,12 +15,7 @@
 #   Browse user installed themes in `data/themes/`
 theme = "rose"
 light = false
-<<<<<<< HEAD
-dark = true
-font_theme = "ocean"
-=======
 font_theme = "minimal"
->>>>>>> 2cc38fa3e1c256af58ae04b795797ed1806d57b2
 colour_theme = "rose"
 
 # Enable users to switch between day and night mode?
@@ -30,7 +25,7 @@ day_night = true
 #   Latest font sets (may require updating): https://sourcethemes.com/academic/themes/
 #   Browse built-in font sets in `themes/academic/data/fonts/`
 #   Browse user installed font sets in `data/fonts/`
-font = ""
+font = "minimal"
 
 # Choose a font size.
 # Sizes: XS (extra small), S (small), M (medium), L (large - DEFAULT), XL (extra large)
