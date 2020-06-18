@@ -5,12 +5,20 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Natalia Garcia</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 09 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/mylogo.png</url>
       <title>Natalia Garcia</title>
       <link>/</link>
     </image>
+    
+    <item>
+      <title>Multiplex Immune Cell Profiling in Colorectal Cancer</title>
+      <link>/talk/qbi/</link>
+      <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/talk/qbi/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Privacy Policy</title>

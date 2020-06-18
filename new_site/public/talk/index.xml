@@ -1,16 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Recent &amp; Upcoming Talks | Natalia Garcia</title>
+    <title>Talks | Natalia Garcia</title>
     <link>/talk/</link>
       <atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
-    <description>Recent &amp; Upcoming Talks</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <description>Talks</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 09 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/mylogo.png</url>
-      <title>Recent &amp; Upcoming Talks</title>
+      <title>Talks</title>
       <link>/talk/</link>
     </image>
+    
+    <item>
+      <title>Multiplex Immune Cell Profiling in Colorectal Cancer</title>
+      <link>/talk/qbi/</link>
+      <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/talk/qbi/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

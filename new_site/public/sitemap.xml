@@ -3,6 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/talk/qbi/</loc>
+    <lastmod>2020-01-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2020-01-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/</loc>
+    <lastmod>2020-01-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/privacy/</loc>
     <lastmod>2018-06-28T00:00:00+01:00</lastmod>
   </url>
@@ -21,10 +36,6 @@
   </url>
   
   <url>
-    <loc>/</loc>
-  </url>
-  
-  <url>
     <loc>/author/natalia-garcia-martin/</loc>
   </url>
   
@@ -38,10 +49,6 @@
   
   <url>
     <loc>/publication/</loc>
-  </url>
-  
-  <url>
-    <loc>/talk/</loc>
   </url>
   
   <url>

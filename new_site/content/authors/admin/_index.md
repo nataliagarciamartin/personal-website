@@ -20,7 +20,7 @@ organizations:
   url: "https://www.cancercentre.ox.ac.uk/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: PhD student in Statistics working on the integration of genomics and imaging analysis for the study of cancer subtypes to predict tumour behaviour and response to treatment.
+bio: PhD student in Statistics working on the integration of genomics and image analysis for the study of cancer subtypes to predict tumour behaviour and response to treatment.
 
 interests:
 - Machine Learning
