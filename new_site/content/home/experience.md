@@ -18,27 +18,61 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
+  title = "Teaching Assistant in Applied Statistics"
+  company = "University of Oxford"
+  company_url = "https://www.stats.ox.ac.uk/"
+  location = "Oxford, UK"
+  date_start = "2019-09"
+  date_end = "2019-12"
   description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
+  * Third year undergraduate module
+  * Teaching shared with course lecturer
+  * Marked student assignments
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
-
+  title = "Statistics Demonstrator"
+  company = "University of Glasgow"
+  company_url = "https://www.gla.ac.uk/schools/mathematicsstatistics/"
+  location = "Glasgow, UK"
+  date_start = "2016-10"
+  date_end = "2017-05"
+  description = """Demonstrator for second year R labs."""
+  
+  [[experience]]
+  title = "Summer Research Student"
+  company = "University of Glasgow"
+  company_url =  "https://www.gla.ac.uk/schools/mathematicsstatistics/"
+  location = "Glasgow, UK"
+  date_start = "2017-05"
+  date_end = "2017-07"
+  description = """
+  * Survival analysis of End Stage Renal Disease
+  * Collaboration with Royal Hospital for Children
+  * Funded by [Medical Research Scotland](https://medicalresearchscotland.org.uk/awards/statistical-analysis-obesity-hypertension-mortality-following-paediatric-renal-replacement-therapy/)
+  """
+  
+  [[experience]]
+  title = "Summer Placement"
+  company = "Met Office"
+  company_url = "https://www.metoffice.gov.uk/"
+  location = "Exeter, UK"
+  date_start = "2016-06"
+  date_end = "2016-09"
+  description = """
+  * Part of the Government Partnerships Team
+  * Analysed market research results for the [DataSpring API Management Project](https://www.bgs.ac.uk/ESSP/DataSpring.html)
+  """
+  
+  [[experience]]
+  title = "Research Student Placement"
+  company = "Natural England"
+  company_url = "https://www.gov.uk/government/organisations/natural-england"
+  location = "Bristol, UK"
+  date_start = "2015-06"
+  date_end = "2015-08"
+  description = """
+  * Data Analysis of National Trails visitors
+  * Funded by [Science and Solutions for a Changing Planet NERC DTP](https://www.imperial.ac.uk/grantham/education/science-and-solutions-for-a-changing-planet-dtp/), Imperial College London
+  """
 +++
