@@ -3,12 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/talk/qbi/qbi/</loc>
-    <lastmod>2020-01-09T00:00:00+00:00</lastmod>
+    <loc>/project/imaging-pipeline/imaging-pipeline/</loc>
+    <lastmod>2020-06-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/</loc>
+    <lastmod>2020-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/</loc>
+    <lastmod>2020-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/qbi/qbi/</loc>
     <lastmod>2020-01-09T00:00:00+00:00</lastmod>
   </url>
   

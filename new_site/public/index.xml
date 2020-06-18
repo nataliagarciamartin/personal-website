@@ -5,12 +5,20 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Natalia Garcia</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 09 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jun 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/mylogo.png</url>
       <title>Natalia Garcia</title>
       <link>/</link>
     </image>
+    
+    <item>
+      <title>Identifying histology-based subtypes on the basis of cell-to-cell interactions</title>
+      <link>/project/imaging-pipeline/imaging-pipeline/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/project/imaging-pipeline/imaging-pipeline/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Multiplex Immune Cell Profiling in Colorectal Cancer</title>
