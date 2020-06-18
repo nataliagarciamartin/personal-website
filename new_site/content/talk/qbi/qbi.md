@@ -9,7 +9,7 @@ url_slides: "https://docs.google.com/presentation/d/1TF2iOXJPl-Oi1bhOKSFHBU_3--V
 #   1 = List
 #   2 = Compact
 #   3 = Card
-view: 1
+view: 2
 
 # Optional header image (relative to `static/img/` folder).
 header:
