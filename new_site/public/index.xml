@@ -14,17 +14,23 @@
     
     <item>
       <title>Identifying histology-based subtypes on the basis of cell-to-cell interactions</title>
-      <link>/project/imaging-pipeline/imaging-pipeline/</link>
+      <link>/project/imaging-pipeline/</link>
       <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>/project/imaging-pipeline/imaging-pipeline/</guid>
-      <description></description>
+      <guid>/project/imaging-pipeline/</guid>
+      <description>&lt;p&gt;The precise and robust measurement of a broad range of biomolecules in the tissue
+architecture context opens up new opportunities for improving our understanding of disease,
+monitoring therapeutic response, and the development of high-dimensional clinical tests. In
+this study we apply multiplex IF staining platform (Perkin-Elmer Vectra) on a diverse set of
+cancer cases. These include samples of different tissue types from Genomics England and a
+set of colorectal polyps from the S:CORT (Stratification in Colorectal Cancer) cohort.&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>Multiplex Immune Cell Profiling in Colorectal Cancer</title>
-      <link>/talk/qbi/qbi/</link>
+      <link>/talk/qbi/</link>
       <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/talk/qbi/qbi/</guid>
+      <guid>/talk/qbi/</guid>
       <description></description>
     </item>
     
