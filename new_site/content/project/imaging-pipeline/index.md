@@ -1,7 +1,7 @@
 ---
 title: Identifying histology-based subtypes on the basis of cell-to-cell interactions
 date: "2020-06-01"
-summary: "Multiplex immunofluorescence in cancer."
+summary: "Profiling of the immune microenvironment of colorectal samples with multiplexed immunofluorescence images."
 abstract: ""
 
 # Optional header image (relative to `static/img/` folder).
