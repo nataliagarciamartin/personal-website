@@ -27,7 +27,7 @@ date_format = "Jan 2006"
   date_start = "2021-05-01"
   date_end = "2021-10-01"
   description = """
-  * RME Predictive Analytics Teams
+  * RME Predictive Analytics Team
   * Survival models for Predictive Maintenance
   """
 
