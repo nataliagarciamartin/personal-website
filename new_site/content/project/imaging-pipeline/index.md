@@ -1,7 +1,7 @@
 ---
 title: Identifying histology-based subtypes on the basis of cell-to-cell interactions
 date: "2020-06-01"
-summary: "Profiling of the immune microenvironment of colorectal samples with multiplexed immunofluorescence images and graph neural networks."
+summary: "Profiling of the immune microenvironment of colorectal samples with multiplexed immunofluorescence images and Graph Neural Networks."
 abstract: ""
 
 # Optional header image (relative to `static/img/` folder).
@@ -15,6 +15,7 @@ image:
 tags:
 - digital-pathology
 - deep-learning
+- graph-neural-networks
 - network-analysis
 ---
 
