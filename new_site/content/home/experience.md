@@ -29,6 +29,7 @@ date_format = "Jan 2006"
   description = """
   * RME Predictive Analytics Team
   * Survival models for Predictive Maintenance
+  * Python, SQL, AWS, PowerBI
   """
 
 [[experience]]
