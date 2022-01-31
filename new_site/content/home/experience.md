@@ -17,13 +17,26 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
+
+[[experience]]
+  title = "Applied Scientist Intern"
+  company = "Amazon"
+  company_url = "https://www.amazon.com/"
+  location = "Luxembourg"
+  date_start = "2021-05-01"
+  date_end = "2021-10-01"
+  description = """
+  * RME Predictive Analytics Teams
+  * Survival models for Predictive Maintenance
+
 [[experience]]
   title = "Teaching Assistant in Applied Statistics"
   company = "University of Oxford"
   company_url = "https://www.stats.ox.ac.uk/"
   location = "Oxford, UK"
   date_start = "2019-09-01"
-  date_end = "2019-12-01"
+  date_end = "2021-12-01"
   description = """
   * Third year undergraduate module
   * Teaching shared with course lecturer
@@ -40,7 +53,7 @@ date_format = "Jan 2006"
   description = """Demonstrator for second year R labs."""
   
   [[experience]]
-  title = "Summer Research Student"
+  title = "Summer Research Student in Medical Statistics"
   company = "University of Glasgow"
   company_url =  "https://www.gla.ac.uk/schools/mathematicsstatistics/"
   location = "Glasgow, UK"
@@ -53,7 +66,7 @@ date_format = "Jan 2006"
   """
   
   [[experience]]
-  title = "Summer Placement"
+  title = "Government Services Intern"
   company = "Met Office"
   company_url = "https://www.metoffice.gov.uk/"
   location = "Exeter, UK"
@@ -65,14 +78,14 @@ date_format = "Jan 2006"
   """
   
   [[experience]]
-  title = "Research Student Placement"
+  title = "Data Analytics Research Placement"
   company = "Natural England"
   company_url = "https://www.gov.uk/government/organisations/natural-england"
   location = "Bristol, UK"
   date_start = "2015-06-01"
   date_end = "2015-08-01"
   description = """
-  * Data Analysis of National Trails visitors
+  * Time Series Analysis of National Trails visitor data
   * Funded by [Science and Solutions for a Changing Planet NERC DTP](https://www.imperial.ac.uk/grantham/education/science-and-solutions-for-a-changing-planet-dtp/), Imperial College London
   """
 +++
