@@ -13,6 +13,6 @@ image:
   caption: ""
   focal_point: Smart
 tags:
-- breast-cancer
-- FISH
+- colorectal-cancer
+- genomics
 ---
