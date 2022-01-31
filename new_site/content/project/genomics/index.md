@@ -1,13 +1,13 @@
 ---
-title: Study of non-invasive breast cancer using fluorescence in situ hybridization
+title: Subclonal analysis and inferral of evolutionary timelines in colorectal tumours
 date: "2022-01-31"
-summary: "We aim to identify genomic aberrations contributing to invasive cancer progression."
+summary: "We identify mutations and copy number events on a set of colorectal samples to infer the chronological evolution of the tumours. We employ Dirichlet process clustering to assign mutations to clones and Plackett-Luce models to order genes chronologically."
 abstract: ""
 
 # Optional header image (relative to `static/img/` folder).
 header: 
   caption: ""
-  image: "headers/fish.png"
+  image: "headers/"
 external_link: ""
 image:
   caption: ""
