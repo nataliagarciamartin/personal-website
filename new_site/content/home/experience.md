@@ -29,6 +29,7 @@ date_format = "Jan 2006"
   description = """
   * RME Predictive Analytics Teams
   * Survival models for Predictive Maintenance
+  """
 
 [[experience]]
   title = "Teaching Assistant in Applied Statistics"
